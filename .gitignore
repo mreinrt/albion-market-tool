@@ -1,0 +1,8 @@
+__pycache__/
+
+# Data client: official source is downloaded, the program is built locally,
+# and logs contain your character name.
+albiondata-client/src/
+albiondata-client/albiondata-client-cli
+albiondata-client/*.log
+albiondata-client/*.log.*
